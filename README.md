@@ -52,7 +52,7 @@ We used a large CSV dataset containing user behavior and profile details, loaded
 
 ## 📂 Files Delivered
 
-- [`SQL_Project_Queries.sql`](./SQL_Project_Queries.sql) – All SQL queries written for analysis
+- (SQL_Project_Queries.sql) – All SQL queries written for analysis
 - `users_data.csv` – Source dataset (not included here for size)
 - `README.md` – This file 📝
 
